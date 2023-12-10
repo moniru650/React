@@ -1,0 +1,35 @@
+
+.mainfooter .card{
+    border: none;
+}
+.foot{
+    margin-top: 50px;
+}
+.mainfooter .card .icon{
+    float: left;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 5px;
+    font-size: 20px;
+    color: rgb(195, 0, 198);
+  
+}
+.mainfooter .para p{
+    margin-left: 100px;
+    position: relative;
+    color: rgb(185, 133, 1);
+    font-size: 20px;
+}
+.mainfooter .card h3{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(1, 90, 90);
+}
+.gold{
+    color: rgb(228, 164, 0) !important;
+    margin-bottom: 80px;
+    margin-top: 50px;
+}
+.center{
+    text-align: center;
+}

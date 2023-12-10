@@ -1,0 +1,35 @@
+.sermain .card img{
+    width: 100px;
+    height: 100px;
+    margin-left: 120px;
+    border-radius: 50%;
+    margin-top: 15px;
+}
+.sermain {
+   margin-top: 30px;
+}
+.sermain .card:hover{
+  text-shadow: 0 0 5px rgb(255, 255, 255), 0 0 10px orange, 0 0 15px rgb(56, 56, 56);
+  color: rgb(0, 0, 0);
+}
+.sermain h1{
+   text-align: center;
+   font-size: 40px;
+   color: rgb(240, 180, 0);
+   margin-bottom: 20px;
+}
+.sermain .card h4{
+  text-align: center;
+  color: goldenrod;
+  margin: 10px 0;
+}
+.sermain .card p{
+  color: rgb(0, 96, 103);
+ 
+}
+.sermain .card .icon{
+  text-align: center;
+  color: rgb(144, 103, 0);
+  font-size: 18px;
+  margin-top: 10px;
+}

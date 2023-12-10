@@ -1,0 +1,40 @@
+h1{
+    font-size: 50px;
+    color: blue;
+}
+.card img{
+    height: 300px;
+}
+.card h2{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(255, 94, 249);
+    margin: 15px 0;
+}
+.card p{
+    margin: 0 20px;
+    margin-bottom: 15px;
+    color: rgb(0, 108, 108);
+    font-size: 15px;
+}
+.card button{
+    width: 100px;
+    padding: 5px 10px;
+    border: none;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    margin-left: 120px;
+    background-image: linear-gradient(red,orange);
+    color: aliceblue;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.card button:hover{
+    /* transform: rotate(360deg); */
+    transition: 1s;
+    transform: scale(1.5);
+}
+.secmain{
+    margin-top: 50px;
+}

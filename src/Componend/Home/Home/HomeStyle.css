@@ -1,0 +1,21 @@
+.viewBtn{
+    background-color: #DF362D;
+    color:#fff;
+    padding:10px 20px;
+    border:none;
+    outline: none;
+  }
+  .viewBtn a{
+      color:#fff;
+      text-decoration: none;
+  }
+  .blog-details h5{
+    font-size: 17px;
+  }
+  .text-capitalize{
+    color: blue;
+    font-weight: bold;
+  }
+
+
+  
